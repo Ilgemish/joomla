@@ -1,2 +1,0 @@
-# joomla
-learn
